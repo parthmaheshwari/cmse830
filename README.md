@@ -1,1 +1,3 @@
-# cmse830
+# cmse830 Projects
+
+## Parth Maheshwari
